@@ -40,4 +40,12 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/AbhayPatel5535/DSA/tree/master/0860-lemonade-change) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AbhayPatel5535/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AbhayPatel5535/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->

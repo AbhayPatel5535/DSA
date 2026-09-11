@@ -6,6 +6,7 @@ LeetCode Solutions
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AbhayPatel5535/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbhayPatel5535/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0860-lemonade-change](https://github.com/AbhayPatel5535/DSA/tree/master/0860-lemonade-change) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AbhayPatel5535/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -55,4 +56,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AbhayPatel5535/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AbhayPatel5535/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->

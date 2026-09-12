@@ -20,6 +20,7 @@ LeetCode Solutions
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/AbhayPatel5535/DSA/tree/master/0223-rectangle-area) |
 | [3870-count-commas-in-range](https://github.com/AbhayPatel5535/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AbhayPatel5535/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhayPatel5535/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -60,4 +61,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhayPatel5535/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/AbhayPatel5535/DSA/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->

@@ -23,6 +23,7 @@ LeetCode Solutions
 | [0223-rectangle-area](https://github.com/AbhayPatel5535/DSA/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/AbhayPatel5535/DSA/tree/master/0836-rectangle-overlap) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AbhayPatel5535/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3790-smallest-all-ones-multiple](https://github.com/AbhayPatel5535/DSA/tree/master/3790-smallest-all-ones-multiple) |
 | [3870-count-commas-in-range](https://github.com/AbhayPatel5535/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AbhayPatel5535/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhayPatel5535/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -98,4 +99,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhayPatel5535/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [3790-smallest-all-ones-multiple](https://github.com/AbhayPatel5535/DSA/tree/master/3790-smallest-all-ones-multiple) |
 <!---LeetCode Topics End-->

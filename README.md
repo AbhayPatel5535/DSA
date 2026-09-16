@@ -23,6 +23,7 @@ LeetCode Solutions
 | ------- |
 | [0223-rectangle-area](https://github.com/AbhayPatel5535/DSA/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/AbhayPatel5535/DSA/tree/master/0836-rectangle-overlap) |
+| [1492-the-kth-factor-of-n](https://github.com/AbhayPatel5535/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AbhayPatel5535/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3790-smallest-all-ones-multiple](https://github.com/AbhayPatel5535/DSA/tree/master/3790-smallest-all-ones-multiple) |
 | [3870-count-commas-in-range](https://github.com/AbhayPatel5535/DSA/tree/master/3870-count-commas-in-range) |
@@ -116,4 +117,12 @@ LeetCode Solutions
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/AbhayPatel5535/DSA/tree/master/1051-height-checker) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/AbhayPatel5535/DSA/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/AbhayPatel5535/DSA/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->

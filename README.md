@@ -125,4 +125,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/AbhayPatel5535/DSA/tree/master/1492-the-kth-factor-of-n) |
+## String
+|  |
+| ------- |
+| [0709-to-lower-case](https://github.com/AbhayPatel5535/DSA/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->

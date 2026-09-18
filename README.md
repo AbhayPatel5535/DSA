@@ -129,4 +129,5 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/AbhayPatel5535/DSA/tree/master/0709-to-lower-case) |
+| [3931-check-adjacent-digit-differences](https://github.com/AbhayPatel5535/DSA/tree/master/3931-check-adjacent-digit-differences) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@ LeetCode Solutions
 | [3903-smallest-stable-index-i](https://github.com/AbhayPatel5535/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AbhayPatel5535/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/AbhayPatel5535/DSA/tree/master/3909-compare-sums-of-bitonic-parts) |
+| [3925-concatenate-array-with-reverse](https://github.com/AbhayPatel5535/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ LeetCode Solutions
 | ------- |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AbhayPatel5535/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AbhayPatel5535/DSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/AbhayPatel5535/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
 | ------- |

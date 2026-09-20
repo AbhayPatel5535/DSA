@@ -47,6 +47,7 @@ LeetCode Solutions
 | ------- |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AbhayPatel5535/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AbhayPatel5535/DSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/AbhayPatel5535/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
@@ -131,5 +132,6 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/AbhayPatel5535/DSA/tree/master/0709-to-lower-case) |
+| [3498-reverse-degree-of-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/AbhayPatel5535/DSA/tree/master/3931-check-adjacent-digit-differences) |
 <!---LeetCode Topics End-->

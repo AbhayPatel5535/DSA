@@ -132,6 +132,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/AbhayPatel5535/DSA/tree/master/0709-to-lower-case) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/AbhayPatel5535/DSA/tree/master/3931-check-adjacent-digit-differences) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ LeetCode Solutions
 | [1051-height-checker](https://github.com/AbhayPatel5535/DSA/tree/master/1051-height-checker) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AbhayPatel5535/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AbhayPatel5535/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AbhayPatel5535/DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AbhayPatel5535/DSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhayPatel5535/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AbhayPatel5535/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -135,4 +136,8 @@ LeetCode Solutions
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/AbhayPatel5535/DSA/tree/master/3931-check-adjacent-digit-differences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AbhayPatel5535/DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 <!---LeetCode Topics End-->

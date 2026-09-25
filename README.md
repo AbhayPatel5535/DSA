@@ -15,6 +15,7 @@ LeetCode Solutions
 | [2778-sum-of-squares-of-special-elements](https://github.com/AbhayPatel5535/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AbhayPatel5535/DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AbhayPatel5535/DSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AbhayPatel5535/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AbhayPatel5535/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhayPatel5535/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AbhayPatel5535/DSA/tree/master/3876-construct-uniform-parity-array-ii) |

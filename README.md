@@ -26,6 +26,7 @@ LeetCode Solutions
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AbhayPatel5535/DSA/tree/master/0050-powx-n) |
 | [0223-rectangle-area](https://github.com/AbhayPatel5535/DSA/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/AbhayPatel5535/DSA/tree/master/0836-rectangle-overlap) |
 | [1492-the-kth-factor-of-n](https://github.com/AbhayPatel5535/DSA/tree/master/1492-the-kth-factor-of-n) |
@@ -69,6 +70,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AbhayPatel5535/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/AbhayPatel5535/DSA/tree/master/0050-powx-n) |
 ## Enumeration
 |  |
 | ------- |

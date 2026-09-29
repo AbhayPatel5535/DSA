@@ -12,6 +12,7 @@ LeetCode Solutions
 | [1051-height-checker](https://github.com/AbhayPatel5535/DSA/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AbhayPatel5535/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AbhayPatel5535/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2733-neither-minimum-nor-maximum](https://github.com/AbhayPatel5535/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AbhayPatel5535/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AbhayPatel5535/DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AbhayPatel5535/DSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
@@ -124,6 +125,7 @@ LeetCode Solutions
 | ------- |
 | [1051-height-checker](https://github.com/AbhayPatel5535/DSA/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AbhayPatel5535/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2733-neither-minimum-nor-maximum](https://github.com/AbhayPatel5535/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 ## Counting Sort
 |  |
 | ------- |

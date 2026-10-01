@@ -147,6 +147,7 @@ LeetCode Solutions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AbhayPatel5535/DSA/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/AbhayPatel5535/DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/AbhayPatel5535/DSA/tree/master/0709-to-lower-case) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhayPatel5535/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -161,9 +162,11 @@ LeetCode Solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AbhayPatel5535/DSA/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhayPatel5535/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AbhayPatel5535/DSA/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhayPatel5535/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

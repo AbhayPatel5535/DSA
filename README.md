@@ -15,6 +15,7 @@ LeetCode Solutions
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AbhayPatel5535/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AbhayPatel5535/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AbhayPatel5535/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/AbhayPatel5535/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AbhayPatel5535/DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AbhayPatel5535/DSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbhayPatel5535/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -123,6 +124,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AbhayPatel5535/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/AbhayPatel5535/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3790-smallest-all-ones-multiple](https://github.com/AbhayPatel5535/DSA/tree/master/3790-smallest-all-ones-multiple) |
 ## Sorting
 |  |
@@ -159,6 +161,7 @@ LeetCode Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/AbhayPatel5535/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AbhayPatel5535/DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AbhayPatel5535/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Stack
@@ -171,4 +174,12 @@ LeetCode Solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhayPatel5535/DSA/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhayPatel5535/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/AbhayPatel5535/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/AbhayPatel5535/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->

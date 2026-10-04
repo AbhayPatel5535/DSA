@@ -72,6 +72,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AbhayPatel5535/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0876-middle-of-the-linked-list](https://github.com/AbhayPatel5535/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -85,6 +86,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhayPatel5535/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/AbhayPatel5535/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AbhayPatel5535/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Geometry
 |  |

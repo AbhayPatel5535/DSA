@@ -168,6 +168,7 @@ LeetCode Solutions
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhayPatel5535/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3856-trim-trailing-vowels](https://github.com/AbhayPatel5535/DSA/tree/master/3856-trim-trailing-vowels) |
 | [3931-check-adjacent-digit-differences](https://github.com/AbhayPatel5535/DSA/tree/master/3931-check-adjacent-digit-differences) |
 ## Bit Manipulation
 |  |

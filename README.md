@@ -86,6 +86,7 @@ LeetCode Solutions
 ## Enumeration
 |  |
 | ------- |
+| [2437-number-of-valid-clock-times](https://github.com/AbhayPatel5535/DSA/tree/master/2437-number-of-valid-clock-times) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AbhayPatel5535/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
@@ -166,6 +167,7 @@ LeetCode Solutions
 | [0709-to-lower-case](https://github.com/AbhayPatel5535/DSA/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhayPatel5535/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhayPatel5535/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2437-number-of-valid-clock-times](https://github.com/AbhayPatel5535/DSA/tree/master/2437-number-of-valid-clock-times) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/AbhayPatel5535/DSA/tree/master/3856-trim-trailing-vowels) |

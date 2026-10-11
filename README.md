@@ -10,6 +10,7 @@ LeetCode Solutions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbhayPatel5535/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0860-lemonade-change](https://github.com/AbhayPatel5535/DSA/tree/master/0860-lemonade-change) |
 | [1051-height-checker](https://github.com/AbhayPatel5535/DSA/tree/master/1051-height-checker) |
+| [1094-car-pooling](https://github.com/AbhayPatel5535/DSA/tree/master/1094-car-pooling) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AbhayPatel5535/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AbhayPatel5535/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AbhayPatel5535/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -50,6 +51,7 @@ LeetCode Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/AbhayPatel5535/DSA/tree/master/1094-car-pooling) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AbhayPatel5535/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3903-smallest-stable-index-i](https://github.com/AbhayPatel5535/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AbhayPatel5535/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -62,6 +64,7 @@ LeetCode Solutions
 ## Simulation
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/AbhayPatel5535/DSA/tree/master/1094-car-pooling) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AbhayPatel5535/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2293-min-max-game](https://github.com/AbhayPatel5535/DSA/tree/master/2293-min-max-game) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AbhayPatel5535/DSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
@@ -140,6 +143,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/AbhayPatel5535/DSA/tree/master/1051-height-checker) |
+| [1094-car-pooling](https://github.com/AbhayPatel5535/DSA/tree/master/1094-car-pooling) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AbhayPatel5535/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AbhayPatel5535/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 ## Counting Sort
@@ -198,4 +202,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AbhayPatel5535/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/AbhayPatel5535/DSA/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->

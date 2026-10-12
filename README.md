@@ -8,6 +8,7 @@ LeetCode Solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhayPatel5535/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbhayPatel5535/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0414-third-maximum-number](https://github.com/AbhayPatel5535/DSA/tree/master/0414-third-maximum-number) |
 | [0860-lemonade-change](https://github.com/AbhayPatel5535/DSA/tree/master/0860-lemonade-change) |
 | [1051-height-checker](https://github.com/AbhayPatel5535/DSA/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/AbhayPatel5535/DSA/tree/master/1094-car-pooling) |
@@ -142,6 +143,7 @@ LeetCode Solutions
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/AbhayPatel5535/DSA/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/AbhayPatel5535/DSA/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/AbhayPatel5535/DSA/tree/master/1094-car-pooling) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AbhayPatel5535/DSA/tree/master/1346-check-if-n-and-its-double-exist) |

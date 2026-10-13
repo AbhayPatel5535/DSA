@@ -26,6 +26,7 @@ LeetCode Solutions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbhayPatel5535/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AbhayPatel5535/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AbhayPatel5535/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AbhayPatel5535/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhayPatel5535/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AbhayPatel5535/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/AbhayPatel5535/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -76,6 +77,7 @@ LeetCode Solutions
 | ------- |
 | [0860-lemonade-change](https://github.com/AbhayPatel5535/DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhayPatel5535/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AbhayPatel5535/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AbhayPatel5535/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Linked List
 |  |
@@ -148,6 +150,7 @@ LeetCode Solutions
 | [1094-car-pooling](https://github.com/AbhayPatel5535/DSA/tree/master/1094-car-pooling) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AbhayPatel5535/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AbhayPatel5535/DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AbhayPatel5535/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |

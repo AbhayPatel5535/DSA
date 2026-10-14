@@ -38,6 +38,7 @@ LeetCode Solutions
 | ------- |
 | [0050-powx-n](https://github.com/AbhayPatel5535/DSA/tree/master/0050-powx-n) |
 | [0223-rectangle-area](https://github.com/AbhayPatel5535/DSA/tree/master/0223-rectangle-area) |
+| [0492-construct-the-rectangle](https://github.com/AbhayPatel5535/DSA/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/AbhayPatel5535/DSA/tree/master/0836-rectangle-overlap) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AbhayPatel5535/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/AbhayPatel5535/DSA/tree/master/1492-the-kth-factor-of-n) |

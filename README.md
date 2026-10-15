@@ -19,6 +19,7 @@ LeetCode Solutions
 | [2293-min-max-game](https://github.com/AbhayPatel5535/DSA/tree/master/2293-min-max-game) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AbhayPatel5535/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AbhayPatel5535/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhayPatel5535/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AbhayPatel5535/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AbhayPatel5535/DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AbhayPatel5535/DSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
@@ -140,6 +141,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AbhayPatel5535/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhayPatel5535/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AbhayPatel5535/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AbhayPatel5535/DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3790-smallest-all-ones-multiple](https://github.com/AbhayPatel5535/DSA/tree/master/3790-smallest-all-ones-multiple) |
@@ -212,4 +214,12 @@ LeetCode Solutions
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/AbhayPatel5535/DSA/tree/master/1094-car-pooling) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhayPatel5535/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhayPatel5535/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->

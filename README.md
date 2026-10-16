@@ -42,6 +42,7 @@ LeetCode Solutions
 | [0223-rectangle-area](https://github.com/AbhayPatel5535/DSA/tree/master/0223-rectangle-area) |
 | [0492-construct-the-rectangle](https://github.com/AbhayPatel5535/DSA/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/AbhayPatel5535/DSA/tree/master/0836-rectangle-overlap) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AbhayPatel5535/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AbhayPatel5535/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/AbhayPatel5535/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbhayPatel5535/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -88,6 +89,7 @@ LeetCode Solutions
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AbhayPatel5535/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0876-middle-of-the-linked-list](https://github.com/AbhayPatel5535/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AbhayPatel5535/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |

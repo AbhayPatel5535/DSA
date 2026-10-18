@@ -43,6 +43,7 @@ LeetCode Solutions
 | [0223-rectangle-area](https://github.com/AbhayPatel5535/DSA/tree/master/0223-rectangle-area) |
 | [0492-construct-the-rectangle](https://github.com/AbhayPatel5535/DSA/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/AbhayPatel5535/DSA/tree/master/0836-rectangle-overlap) |
+| [1103-distribute-candies-to-people](https://github.com/AbhayPatel5535/DSA/tree/master/1103-distribute-candies-to-people) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AbhayPatel5535/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AbhayPatel5535/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/AbhayPatel5535/DSA/tree/master/1492-the-kth-factor-of-n) |
@@ -73,6 +74,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/AbhayPatel5535/DSA/tree/master/1094-car-pooling) |
+| [1103-distribute-candies-to-people](https://github.com/AbhayPatel5535/DSA/tree/master/1103-distribute-candies-to-people) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AbhayPatel5535/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2293-min-max-game](https://github.com/AbhayPatel5535/DSA/tree/master/2293-min-max-game) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AbhayPatel5535/DSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |

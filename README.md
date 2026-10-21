@@ -23,6 +23,7 @@ LeetCode Solutions
 | [2733-neither-minimum-nor-maximum](https://github.com/AbhayPatel5535/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AbhayPatel5535/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhayPatel5535/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2923-find-champion-i](https://github.com/AbhayPatel5535/DSA/tree/master/2923-find-champion-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AbhayPatel5535/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AbhayPatel5535/DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AbhayPatel5535/DSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
@@ -237,4 +238,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhayPatel5535/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Matrix
+|  |
+| ------- |
+| [2923-find-champion-i](https://github.com/AbhayPatel5535/DSA/tree/master/2923-find-champion-i) |
 <!---LeetCode Topics End-->

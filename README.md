@@ -50,6 +50,7 @@ LeetCode Solutions
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AbhayPatel5535/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AbhayPatel5535/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/AbhayPatel5535/DSA/tree/master/1492-the-kth-factor-of-n) |
+| [2409-count-days-spent-together](https://github.com/AbhayPatel5535/DSA/tree/master/2409-count-days-spent-together) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbhayPatel5535/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AbhayPatel5535/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AbhayPatel5535/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -197,6 +198,7 @@ LeetCode Solutions
 | [0709-to-lower-case](https://github.com/AbhayPatel5535/DSA/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhayPatel5535/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhayPatel5535/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/AbhayPatel5535/DSA/tree/master/2409-count-days-spent-together) |
 | [2437-number-of-valid-clock-times](https://github.com/AbhayPatel5535/DSA/tree/master/2437-number-of-valid-clock-times) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/3498-reverse-degree-of-a-string) |

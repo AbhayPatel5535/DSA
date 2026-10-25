@@ -51,6 +51,7 @@ LeetCode Solutions
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AbhayPatel5535/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/AbhayPatel5535/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [2409-count-days-spent-together](https://github.com/AbhayPatel5535/DSA/tree/master/2409-count-days-spent-together) |
+| [2427-number-of-common-factors](https://github.com/AbhayPatel5535/DSA/tree/master/2427-number-of-common-factors) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbhayPatel5535/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AbhayPatel5535/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AbhayPatel5535/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -108,6 +109,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/AbhayPatel5535/DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2427-number-of-common-factors](https://github.com/AbhayPatel5535/DSA/tree/master/2427-number-of-common-factors) |
 | [2437-number-of-valid-clock-times](https://github.com/AbhayPatel5535/DSA/tree/master/2437-number-of-valid-clock-times) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AbhayPatel5535/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
@@ -186,6 +188,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/AbhayPatel5535/DSA/tree/master/1492-the-kth-factor-of-n) |
+| [2427-number-of-common-factors](https://github.com/AbhayPatel5535/DSA/tree/master/2427-number-of-common-factors) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -247,4 +250,12 @@ LeetCode Solutions
 |  |
 | ------- |
 | [2923-find-champion-i](https://github.com/AbhayPatel5535/DSA/tree/master/2923-find-champion-i) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/AbhayPatel5535/DSA/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/AbhayPatel5535/DSA/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ LeetCode Solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhayPatel5535/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbhayPatel5535/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0204-count-primes](https://github.com/AbhayPatel5535/DSA/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/AbhayPatel5535/DSA/tree/master/0414-third-maximum-number) |
 | [0860-lemonade-change](https://github.com/AbhayPatel5535/DSA/tree/master/0860-lemonade-change) |
 | [1051-height-checker](https://github.com/AbhayPatel5535/DSA/tree/master/1051-height-checker) |
@@ -43,6 +44,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AbhayPatel5535/DSA/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/AbhayPatel5535/DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/AbhayPatel5535/DSA/tree/master/0223-rectangle-area) |
 | [0492-construct-the-rectangle](https://github.com/AbhayPatel5535/DSA/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/AbhayPatel5535/DSA/tree/master/0836-rectangle-overlap) |
@@ -108,6 +110,7 @@ LeetCode Solutions
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AbhayPatel5535/DSA/tree/master/0204-count-primes) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AbhayPatel5535/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/AbhayPatel5535/DSA/tree/master/2427-number-of-common-factors) |
 | [2437-number-of-valid-clock-times](https://github.com/AbhayPatel5535/DSA/tree/master/2437-number-of-valid-clock-times) |
@@ -187,6 +190,7 @@ LeetCode Solutions
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AbhayPatel5535/DSA/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/AbhayPatel5535/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [2427-number-of-common-factors](https://github.com/AbhayPatel5535/DSA/tree/master/2427-number-of-common-factors) |
 ## Prime Factorization
@@ -258,4 +262,16 @@ LeetCode Solutions
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/AbhayPatel5535/DSA/tree/master/2427-number-of-common-factors) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AbhayPatel5535/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AbhayPatel5535/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AbhayPatel5535/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

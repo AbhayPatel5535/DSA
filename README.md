@@ -28,6 +28,7 @@ LeetCode Solutions
 | [2932-maximum-strong-pair-xor-i](https://github.com/AbhayPatel5535/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AbhayPatel5535/DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AbhayPatel5535/DSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AbhayPatel5535/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AbhayPatel5535/DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbhayPatel5535/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AbhayPatel5535/DSA/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -165,6 +166,7 @@ LeetCode Solutions
 | [2367-number-of-arithmetic-triplets](https://github.com/AbhayPatel5535/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhayPatel5535/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AbhayPatel5535/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AbhayPatel5535/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AbhayPatel5535/DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3790-smallest-all-ones-multiple](https://github.com/AbhayPatel5535/DSA/tree/master/3790-smallest-all-ones-multiple) |
 ## Sorting
@@ -216,6 +218,7 @@ LeetCode Solutions
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AbhayPatel5535/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AbhayPatel5535/DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AbhayPatel5535/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AbhayPatel5535/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AbhayPatel5535/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Stack

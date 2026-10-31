@@ -166,6 +166,7 @@ LeetCode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AbhayPatel5535/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AbhayPatel5535/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhayPatel5535/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -188,6 +189,7 @@ LeetCode Solutions
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/AbhayPatel5535/DSA/tree/master/1051-height-checker) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AbhayPatel5535/DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Bubble Sort
@@ -208,6 +210,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhayPatel5535/DSA/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/AbhayPatel5535/DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/AbhayPatel5535/DSA/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhayPatel5535/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -282,4 +285,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AbhayPatel5535/DSA/tree/master/0204-count-primes) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

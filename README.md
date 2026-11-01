@@ -10,6 +10,7 @@ LeetCode Solutions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbhayPatel5535/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/AbhayPatel5535/DSA/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/AbhayPatel5535/DSA/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AbhayPatel5535/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0860-lemonade-change](https://github.com/AbhayPatel5535/DSA/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/AbhayPatel5535/DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/AbhayPatel5535/DSA/tree/master/1051-height-checker) |
@@ -48,6 +49,7 @@ LeetCode Solutions
 | [0050-powx-n](https://github.com/AbhayPatel5535/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/AbhayPatel5535/DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/AbhayPatel5535/DSA/tree/master/0223-rectangle-area) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AbhayPatel5535/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/AbhayPatel5535/DSA/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/AbhayPatel5535/DSA/tree/master/0836-rectangle-overlap) |
 | [1103-distribute-candies-to-people](https://github.com/AbhayPatel5535/DSA/tree/master/1103-distribute-candies-to-people) |

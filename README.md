@@ -51,6 +51,7 @@ LeetCode Solutions
 | [0050-powx-n](https://github.com/AbhayPatel5535/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/AbhayPatel5535/DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/AbhayPatel5535/DSA/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/AbhayPatel5535/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AbhayPatel5535/DSA/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AbhayPatel5535/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/AbhayPatel5535/DSA/tree/master/0492-construct-the-rectangle) |
@@ -116,6 +117,7 @@ LeetCode Solutions
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AbhayPatel5535/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/AbhayPatel5535/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/AbhayPatel5535/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AbhayPatel5535/DSA/tree/master/0342-power-of-four) |
 ## Enumeration
 |  |
@@ -232,6 +234,7 @@ LeetCode Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AbhayPatel5535/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AbhayPatel5535/DSA/tree/master/0342-power-of-four) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AbhayPatel5535/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AbhayPatel5535/DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |

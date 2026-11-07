@@ -11,6 +11,7 @@ LeetCode Solutions
 | [0204-count-primes](https://github.com/AbhayPatel5535/DSA/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/AbhayPatel5535/DSA/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AbhayPatel5535/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0605-can-place-flowers](https://github.com/AbhayPatel5535/DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/AbhayPatel5535/DSA/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/AbhayPatel5535/DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/AbhayPatel5535/DSA/tree/master/1051-height-checker) |
@@ -103,6 +104,7 @@ LeetCode Solutions
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/AbhayPatel5535/DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/AbhayPatel5535/DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhayPatel5535/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AbhayPatel5535/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |

@@ -16,6 +16,7 @@ LeetCode Solutions
 | [0905-sort-array-by-parity](https://github.com/AbhayPatel5535/DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/AbhayPatel5535/DSA/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/AbhayPatel5535/DSA/tree/master/1094-car-pooling) |
+| [1267-count-servers-that-communicate](https://github.com/AbhayPatel5535/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AbhayPatel5535/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AbhayPatel5535/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AbhayPatel5535/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -158,6 +159,7 @@ LeetCode Solutions
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhayPatel5535/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AbhayPatel5535/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/AbhayPatel5535/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -205,6 +207,7 @@ LeetCode Solutions
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/AbhayPatel5535/DSA/tree/master/1051-height-checker) |
+| [1267-count-servers-that-communicate](https://github.com/AbhayPatel5535/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AbhayPatel5535/DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Bubble Sort
 |  |
@@ -280,6 +283,7 @@ LeetCode Solutions
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/AbhayPatel5535/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2923-find-champion-i](https://github.com/AbhayPatel5535/DSA/tree/master/2923-find-champion-i) |
 ## Euclidean Algorithm
 |  |
@@ -305,4 +309,12 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/AbhayPatel5535/DSA/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/AbhayPatel5535/DSA/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->

@@ -42,6 +42,7 @@ LeetCode Solutions
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AbhayPatel5535/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AbhayPatel5535/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AbhayPatel5535/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AbhayPatel5535/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhayPatel5535/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AbhayPatel5535/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/AbhayPatel5535/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -204,6 +205,7 @@ LeetCode Solutions
 | [2089-find-target-indices-after-sorting-array](https://github.com/AbhayPatel5535/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AbhayPatel5535/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AbhayPatel5535/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AbhayPatel5535/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Counting Sort
 |  |
 | ------- |

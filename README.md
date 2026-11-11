@@ -12,6 +12,7 @@ LeetCode Solutions
 | [0414-third-maximum-number](https://github.com/AbhayPatel5535/DSA/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AbhayPatel5535/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0605-can-place-flowers](https://github.com/AbhayPatel5535/DSA/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/AbhayPatel5535/DSA/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/AbhayPatel5535/DSA/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/AbhayPatel5535/DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/AbhayPatel5535/DSA/tree/master/1051-height-checker) |
@@ -83,6 +84,7 @@ LeetCode Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/AbhayPatel5535/DSA/tree/master/0724-find-pivot-index) |
 | [1094-car-pooling](https://github.com/AbhayPatel5535/DSA/tree/master/1094-car-pooling) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AbhayPatel5535/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3903-smallest-stable-index-i](https://github.com/AbhayPatel5535/DSA/tree/master/3903-smallest-stable-index-i) |

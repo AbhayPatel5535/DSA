@@ -65,6 +65,7 @@ LeetCode Solutions
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AbhayPatel5535/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AbhayPatel5535/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/AbhayPatel5535/DSA/tree/master/1492-the-kth-factor-of-n) |
+| [1925-count-square-sum-triples](https://github.com/AbhayPatel5535/DSA/tree/master/1925-count-square-sum-triples) |
 | [2409-count-days-spent-together](https://github.com/AbhayPatel5535/DSA/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/AbhayPatel5535/DSA/tree/master/2427-number-of-common-factors) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbhayPatel5535/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -130,6 +131,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AbhayPatel5535/DSA/tree/master/0204-count-primes) |
+| [1925-count-square-sum-triples](https://github.com/AbhayPatel5535/DSA/tree/master/1925-count-square-sum-triples) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AbhayPatel5535/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/AbhayPatel5535/DSA/tree/master/2427-number-of-common-factors) |
 | [2437-number-of-valid-clock-times](https://github.com/AbhayPatel5535/DSA/tree/master/2437-number-of-valid-clock-times) |

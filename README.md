@@ -29,6 +29,7 @@ LeetCode Solutions
 | [2733-neither-minimum-nor-maximum](https://github.com/AbhayPatel5535/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2765-longest-alternating-subarray](https://github.com/AbhayPatel5535/DSA/tree/master/2765-longest-alternating-subarray) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AbhayPatel5535/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AbhayPatel5535/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhayPatel5535/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2923-find-champion-i](https://github.com/AbhayPatel5535/DSA/tree/master/2923-find-champion-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AbhayPatel5535/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -87,6 +88,7 @@ LeetCode Solutions
 | [0724-find-pivot-index](https://github.com/AbhayPatel5535/DSA/tree/master/0724-find-pivot-index) |
 | [1094-car-pooling](https://github.com/AbhayPatel5535/DSA/tree/master/1094-car-pooling) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AbhayPatel5535/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AbhayPatel5535/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3903-smallest-stable-index-i](https://github.com/AbhayPatel5535/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AbhayPatel5535/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search

@@ -35,6 +35,7 @@ LeetCode Solutions
 | [2932-maximum-strong-pair-xor-i](https://github.com/AbhayPatel5535/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AbhayPatel5535/DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AbhayPatel5535/DSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AbhayPatel5535/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AbhayPatel5535/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AbhayPatel5535/DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbhayPatel5535/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |

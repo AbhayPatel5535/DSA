@@ -55,6 +55,7 @@ LeetCode Solutions
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AbhayPatel5535/DSA/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/AbhayPatel5535/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/AbhayPatel5535/DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/AbhayPatel5535/DSA/tree/master/0223-rectangle-area) |
@@ -193,6 +194,7 @@ LeetCode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AbhayPatel5535/DSA/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AbhayPatel5535/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AbhayPatel5535/DSA/tree/master/2367-number-of-arithmetic-triplets) |
@@ -239,6 +241,7 @@ LeetCode Solutions
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AbhayPatel5535/DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/AbhayPatel5535/DSA/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/AbhayPatel5535/DSA/tree/master/0520-detect-capital) |

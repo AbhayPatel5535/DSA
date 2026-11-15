@@ -29,6 +29,7 @@ LeetCode Solutions
 | [2733-neither-minimum-nor-maximum](https://github.com/AbhayPatel5535/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2765-longest-alternating-subarray](https://github.com/AbhayPatel5535/DSA/tree/master/2765-longest-alternating-subarray) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AbhayPatel5535/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AbhayPatel5535/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AbhayPatel5535/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhayPatel5535/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2923-find-champion-i](https://github.com/AbhayPatel5535/DSA/tree/master/2923-find-champion-i) |
@@ -259,6 +260,7 @@ LeetCode Solutions
 | ------- |
 | [0231-power-of-two](https://github.com/AbhayPatel5535/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AbhayPatel5535/DSA/tree/master/0342-power-of-four) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AbhayPatel5535/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AbhayPatel5535/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AbhayPatel5535/DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AbhayPatel5535/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |

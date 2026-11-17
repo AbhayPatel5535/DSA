@@ -11,6 +11,7 @@ LeetCode Solutions
 | [0204-count-primes](https://github.com/AbhayPatel5535/DSA/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/AbhayPatel5535/DSA/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AbhayPatel5535/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0485-max-consecutive-ones](https://github.com/AbhayPatel5535/DSA/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/AbhayPatel5535/DSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/AbhayPatel5535/DSA/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/AbhayPatel5535/DSA/tree/master/0860-lemonade-change) |

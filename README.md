@@ -334,6 +334,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/AbhayPatel5535/DSA/tree/master/0933-number-of-recent-calls) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -342,4 +343,12 @@ LeetCode Solutions
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/AbhayPatel5535/DSA/tree/master/1267-count-servers-that-communicate) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AbhayPatel5535/DSA/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AbhayPatel5535/DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->

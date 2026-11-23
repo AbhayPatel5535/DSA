@@ -76,6 +76,7 @@ LeetCode Solutions
 | [1925-count-square-sum-triples](https://github.com/AbhayPatel5535/DSA/tree/master/1925-count-square-sum-triples) |
 | [2409-count-days-spent-together](https://github.com/AbhayPatel5535/DSA/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/AbhayPatel5535/DSA/tree/master/2427-number-of-common-factors) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/AbhayPatel5535/DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbhayPatel5535/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AbhayPatel5535/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AbhayPatel5535/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -124,6 +125,7 @@ LeetCode Solutions
 | [0860-lemonade-change](https://github.com/AbhayPatel5535/DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhayPatel5535/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AbhayPatel5535/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/AbhayPatel5535/DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AbhayPatel5535/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AbhayPatel5535/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Linked List

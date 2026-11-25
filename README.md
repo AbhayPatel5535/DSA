@@ -49,6 +49,7 @@ LeetCode Solutions
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AbhayPatel5535/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AbhayPatel5535/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AbhayPatel5535/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3788-maximum-score-of-a-split](https://github.com/AbhayPatel5535/DSA/tree/master/3788-maximum-score-of-a-split) |
 | [3842-toggle-light-bulbs](https://github.com/AbhayPatel5535/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhayPatel5535/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AbhayPatel5535/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -97,6 +98,7 @@ LeetCode Solutions
 | [1094-car-pooling](https://github.com/AbhayPatel5535/DSA/tree/master/1094-car-pooling) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AbhayPatel5535/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/AbhayPatel5535/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [3788-maximum-score-of-a-split](https://github.com/AbhayPatel5535/DSA/tree/master/3788-maximum-score-of-a-split) |
 | [3903-smallest-stable-index-i](https://github.com/AbhayPatel5535/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AbhayPatel5535/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search

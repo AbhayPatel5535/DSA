@@ -81,6 +81,7 @@ LeetCode Solutions
 | [2600-k-items-with-the-maximum-sum](https://github.com/AbhayPatel5535/DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbhayPatel5535/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AbhayPatel5535/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/AbhayPatel5535/DSA/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AbhayPatel5535/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AbhayPatel5535/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AbhayPatel5535/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -119,6 +120,7 @@ LeetCode Solutions
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/AbhayPatel5535/DSA/tree/master/2293-min-max-game) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/AbhayPatel5535/DSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3360-stone-removal-game](https://github.com/AbhayPatel5535/DSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/AbhayPatel5535/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3925-concatenate-array-with-reverse](https://github.com/AbhayPatel5535/DSA/tree/master/3925-concatenate-array-with-reverse) |

@@ -25,6 +25,7 @@ LeetCode Solutions
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AbhayPatel5535/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AbhayPatel5535/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/AbhayPatel5535/DSA/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/AbhayPatel5535/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2293-min-max-game](https://github.com/AbhayPatel5535/DSA/tree/master/2293-min-max-game) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AbhayPatel5535/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AbhayPatel5535/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -212,6 +213,7 @@ LeetCode Solutions
 | [0012-integer-to-roman](https://github.com/AbhayPatel5535/DSA/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AbhayPatel5535/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2248-intersection-of-multiple-arrays](https://github.com/AbhayPatel5535/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AbhayPatel5535/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhayPatel5535/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AbhayPatel5535/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -230,6 +232,7 @@ LeetCode Solutions
 | [1346-check-if-n-and-its-double-exist](https://github.com/AbhayPatel5535/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AbhayPatel5535/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AbhayPatel5535/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/AbhayPatel5535/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AbhayPatel5535/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AbhayPatel5535/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AbhayPatel5535/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -241,6 +244,7 @@ LeetCode Solutions
 | [0387-first-unique-character-in-a-string](https://github.com/AbhayPatel5535/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/AbhayPatel5535/DSA/tree/master/1051-height-checker) |
 | [1267-count-servers-that-communicate](https://github.com/AbhayPatel5535/DSA/tree/master/1267-count-servers-that-communicate) |
+| [2248-intersection-of-multiple-arrays](https://github.com/AbhayPatel5535/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AbhayPatel5535/DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Bubble Sort
 |  |
